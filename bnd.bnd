@@ -1,0 +1,4 @@
+Bundle-Name: http-session-data-source
+Bundle-SymbolicName: com.liferay.commerce.demo.http.session.data.source
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.commerce.demo.http.session.data.source.api
